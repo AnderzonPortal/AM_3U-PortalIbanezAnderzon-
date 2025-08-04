@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensiones específicas para landscape -->
+    <dimen name="display_text_size">28sp</dimen>
+    <dimen name="display_padding">12dp</dimen>
+    <dimen name="button_margin">3dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="button_elevation">4dp</dimen>
+    <dimen name="grid_margin_top">8dp</dimen>
+    <dimen name="root_padding">8dp</dimen>
+
+    <!-- Tamaños de texto para botones en landscape -->
+    <dimen name="button_text_base">16sp</dimen>
+    <dimen name="button_text_number">18sp</dimen>
+    <dimen name="button_text_operator">20sp</dimen>
+    <dimen name="button_text_function">14sp</dimen>
+    <dimen name="button_text_equals">22sp</dimen>
+</resources>

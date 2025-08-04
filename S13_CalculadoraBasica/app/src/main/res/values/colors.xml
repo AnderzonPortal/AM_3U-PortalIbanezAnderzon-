@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de fondo -->
+    <color name="calculator_background">#F8F8F8</color>
+    <color name="display_background">#FFFFFF</color>
+
+    <!-- Colores de texto -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_number">#212121</color>
+    <color name="text_operator">#FFFFFF</color>
+    <color name="text_function">#FFFFFF</color>
+    <color name="text_equals">#FFFFFF</color>
+
+    <!-- Colores de botones -->
+    <color name="button_number">#E8E8E8</color>
+    <color name="button_operator">#FF9500</color>
+    <color name="button_function">#A6A6A6</color>
+    <color name="button_equals">#FF9500</color>
+
+    <!-- Efecto ripple -->
+    <color name="button_ripple">#33000000</color>
+
+    <!-- Variante para tema oscuro (opcional) -->
+    <color name="dark_calculator_background">#1C1C1C</color>
+    <color name="dark_display_background">#2D2D2D</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_button_number">#333333</color>
+
+</resources>

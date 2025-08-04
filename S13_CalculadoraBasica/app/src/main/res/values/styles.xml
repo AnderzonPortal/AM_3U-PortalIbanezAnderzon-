@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo base para todos los botones -->
+    <style name="CalcButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:textSize">@dimen/button_text_base</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:elevation">@dimen/button_elevation</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="cornerRadius">@dimen/button_corner_radius</item>
+        <item name="rippleColor">@color/button_ripple</item>
+    </style>
+
+    <!-- Estilo para botones numéricos -->
+    <style name="CalcButton.Number">
+        <item name="android:backgroundTint">@color/button_number</item>
+        <item name="android:textColor">@color/text_number</item>
+        <item name="android:textSize">@dimen/button_text_number</item>
+    </style>
+
+    <!-- Estilo para botones de operaciones -->
+    <style name="CalcButton.Operator">
+        <item name="android:backgroundTint">@color/button_operator</item>
+        <item name="android:textColor">@color/text_operator</item>
+        <item name="android:textSize">@dimen/button_text_operator</item>
+    </style>
+
+    <!-- Estilo para botones de funciones -->
+    <style name="CalcButton.Function">
+        <item name="android:backgroundTint">@color/button_function</item>
+        <item name="android:textColor">@color/text_function</item>
+        <item name="android:textSize">@dimen/button_text_function</item>
+    </style>
+
+    <!-- Estilo para botón de igual -->
+    <style name="CalcButton.Equals">
+        <item name="android:backgroundTint">@color/button_equals</item>
+        <item name="android:textColor">@color/text_equals</item>
+        <item name="android:textSize">@dimen/button_text_equals</item>
+    </style>
+
+</resources>
