@@ -12,6 +12,7 @@ import com.example.seguridad_priv_a.adapter.PermissionsAdapter
 import com.example.seguridad_priv_a.data.PermissionItem
 import com.example.seguridad_priv_a.data.PermissionStatus
 import com.example.seguridad_priv_a.databinding.ActivityMainBinding
+import com.example.seguridad_priv_a.DataProtectionActivity
 
 class MainActivity : AppCompatActivity() {
     
