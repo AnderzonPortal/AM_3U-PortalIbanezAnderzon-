@@ -21,7 +21,8 @@ class MainActivity : AppCompatActivity() {
             binding.textDisplay.text = it
         })
 
-        // Configuración de los botones
+
+        // Configuración los botones
         val numberButtons = listOf(
             binding.btn0, binding.btn1, binding.btn2, binding.btn3, binding.btn4,
             binding.btn5, binding.btn6, binding.btn7, binding.btn8, binding.btn9, binding.btnDot
